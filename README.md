@@ -19,6 +19,8 @@ Kampus  : Universitas Islam Balitar
 
 ## 🔗 Live Preview Tugas
 
-- Pertemuan 1 : [Klik Disini](https://codepen.io/collection/yrpxQg)
+(Dikarenakan beberapa file mengandung assets yang disimpan secara lokal maka penggunaan replit dalam proses deployment secara gratis lebih direkomendasikan, dianjurkan merubah nama file menjadi index.html terlebih dahulu untuk menampikan output)
+
+- Pertemuan 1 : [Klik Disini](https://replit.com/@VIERYNUGROHO/pertemuan1)
 - Pertemuan 2&3 : [Klik Disini](https://replit.com/@VIERYNUGROHO/Pertemuan2-3)
 - Pertemuan 4 : [On Proggress]
