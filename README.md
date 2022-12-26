@@ -1,7 +1,7 @@
 
 # ----- Prak_DesWeb -----
 
-Nama    : Viery Viery Nugroho
+Nama    : Viery Nugroho
 
 NIM     : 21104410049
 
