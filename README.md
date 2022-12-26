@@ -17,7 +17,7 @@ Kampus  : Universitas Islam Balitar
 - [@vierynugroho](https://github.com/vierynugroho)
 
 
-## ## 🔗 Live Preview Tugas
+## 🔗 Live Preview Tugas
 
 - Pertemuan 1 : [-](https://github.com/vierynugroho)
 - Pertemuan 2&3 : [Klik Disini](https://replit.com/@VIERYNUGROHO/VieryP2DESWEB)
