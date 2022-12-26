@@ -6,3 +6,7 @@ Kelas: TI3B
 Jurusan: Teknik Informatika  
 Kampus: Universitas Islam Balitar
 
+Pertemuan 1:
+Pertemuan 2:
+Pertemuan 3: https://replit.com/@VIERYNUGROHO/VieryP2DESWEB
+Pertemuan 4:
