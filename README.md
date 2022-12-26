@@ -17,7 +17,7 @@ Kampus  : Universitas Islam Balitar
 - [@vierynugroho](https://github.com/vierynugroho)
 
 
-## 🚑Penting!
+## 🚑 Penting!
 - Jika membuka dengan replit  : Ubah nama tiap file yang ingin dibuka dengan nama index.html
 - Jika membuka dengan codepen : Sebagian gambar tidak akan muncul karena tersimpan pada penyimpanan lokal
 
