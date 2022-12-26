@@ -19,6 +19,6 @@ Kampus  : Universitas Islam Balitar
 
 ## 🔗 Live Preview Tugas
 
-- Pertemuan 1 : [-](https://github.com/vierynugroho)
+- Pertemuan 1 : [Klik Disini](https://replit.com/@VIERYNUGROHO/pertemuan1)
 - Pertemuan 2&3 : [Klik Disini](https://replit.com/@VIERYNUGROHO/Pertemuan2-3)
-- Pertemuan 4 : [-](https://github.com/vierynugroho)
+- Pertemuan 4 : [Belum Selesai](/)
