@@ -12,7 +12,7 @@ Jurusan : Teknik Informatika
 Kampus  : Universitas Islam Balitar
 
 
-## 🤓 Authors
+## 🤓 Author
 
 - [@vierynugroho](https://github.com/vierynugroho)
 
