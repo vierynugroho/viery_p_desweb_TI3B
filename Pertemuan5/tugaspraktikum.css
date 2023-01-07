@@ -1,0 +1,223 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Style Header */
+header {
+	background: url('https://thumbs.dreamstime.com/b/guilherand-granges-france-november-soccer-ball-net-official-logo-fifa-world-cup-championship-qatar-fifa-world-cup-233839650.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 40px;
+	text-align: right;
+	font-size: 35px;
+	color: white;
+	height: auto;
+}
+
+/* Crate two columns and float*/
+nav {
+	float: left;
+	width: 30%;
+	height: 100vh;
+	background: #ccc;
+	padding: 20px;
+}
+
+/* Style list inside the menu */
+nav ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+nav ul li {
+	padding-left: 5px;
+	border-left: 1px solid black;
+	margin: 10px;
+	padding: 10px;
+	transition: all ease-in-out 0.2s;
+}
+
+nav ul li:hover {
+	margin-left: 20px;
+	border-left: 3px solid rebeccapurple;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #333;
+	font-weight: bold;
+}
+
+article {
+	float: left;
+	padding: 20px;
+	width: 70%;
+	background-color: #f1f1f1;
+	height: 60vh;
+}
+
+.breadcrumb {
+	font-weight: lighter;
+	font-size: 0.8em;
+	word-spacing: 10px;
+	margin-bottom: 10px;
+	font-style: oblique;
+
+	border-left: 2px solid #550436;
+	padding-left: 4px;
+}
+
+.title {
+	margin: 5px 10px;
+}
+
+.subtitle {
+	font-weight: bold;
+}
+
+p.article {
+	text-align: justify;
+}
+
+.img-area {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 10px 0;
+}
+
+.img-title {
+	width: 250px;
+	height: auto;
+	border-radius: 8px;
+	border: 2px solid #550436;
+}
+
+iframe {
+	/* width: 100%; */
+	overflow: scroll;
+}
+
+/* News */
+.news {
+	display: flex;
+	margin: 5px;
+}
+
+.article {
+	padding: 5px;
+	text-align: justify;
+}
+
+.show-more {
+	color: #550436;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.rank {
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+	margin: 15px;
+}
+
+.country {
+	display: flex;
+	align-items: center;
+}
+
+.img-rank {
+	margin-left: 10px;
+}
+
+.country img {
+	margin-right: 10px;
+}
+
+/* Scroll */
+/*css3 design scrollbar*/
+::-webkit-scrollbar {
+	padding: 3px;
+	width: 6px;
+}
+
+::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+	border-radius: 10px;
+	background: #550436;
+}
+
+::-webkit-scrollbar-corner {
+	border-radius: 30%;
+}
+
+/* Clear Float after columns*/
+section::after {
+	content: '';
+	display: table;
+	clear: both;
+}
+
+/* Style the footer */
+footer {
+	background-color: #550436;
+	padding: 10px;
+	text-align: center;
+	color: white;
+
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+/* Media breakpoints */
+@media screen and (max-width: 600px) {
+	nav {
+		height: auto;
+		width: 100%;
+	}
+
+	article {
+		width: 100%;
+	}
+
+	header {
+		height: 20vh;
+		font-size: 0.9em;
+	}
+
+	nav ul {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		font-size: 0.8em;
+	}
+
+	nav ul li {
+		padding: 0 5px;
+	}
+
+	footer {
+		font-size: 0.7em;
+	}
+
+	.img-rank img {
+		width: 70px;
+		height: auto;
+	}
+
+	.img-title {
+		width: 150px;
+	}
+}
