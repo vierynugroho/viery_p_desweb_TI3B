@@ -28,4 +28,4 @@ Kampus  : Universitas Islam Balitar
 - Pertemuan 2&3 : [Replit](https://replit.com/@VIERYNUGROHO/Pertemuan2-3) - [Codepen](https://codepen.io/collection/MgzqMO)
 - Pertemuan 4 : [Replit](https://replit.com/@VIERYNUGROHO/Pertemuan4) - [Codepen](https://codepen.io/collection/wapQJm)
 - Pertemuan 5 : [Replit](https://replit.com/@VIERYNUGROHO/pertemuan5#tugaspraktikum.css) 
-- Pertemuan 6 : [SourceCode-Modul](https://replit.com/@VIERYNUGROHO/pertemuan6-Modul) - [Modul](https://github.com/vierynugroho/viery_p_desweb_TI3B/tree/main/Pertemuan6)
+- Pertemuan 6 : [SourceCode_Modul](https://replit.com/@VIERYNUGROHO/pertemuan6-Modul) - [Modul](https://github.com/vierynugroho/viery_p_desweb_TI3B/tree/main/Pertemuan6)
